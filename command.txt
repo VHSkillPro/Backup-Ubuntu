@@ -1,0 +1,11 @@
+1) Nala : thay thế cho apt
+sudo apt install nala -y
+
+2) Synaptic : GUI cho apt
+sudo apt install synaptic -y
+
+3) Flameshot : phần mềm chụp màn hình
+sudo nala install flameshot -y
+
+4) Plank : dock ubuntu
+sudo nala install plank -y
